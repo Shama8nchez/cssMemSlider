@@ -187,5 +187,10 @@ label:active .point {
     width: 100%;
     justify-content: center;
     order: 1;
+    margin-bottom: 0.65em;
+  }
+
+  label {
+    padding-left: 0.25em;
   }
 }
